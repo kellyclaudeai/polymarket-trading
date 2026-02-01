@@ -523,3 +523,13 @@ clawdhub install polymarket-trading
 ```
 
 Let your AI agent make data-driven bets 24/7.
+
+# Token Monetization (Optional)
+
+If you want to gate access or add premium features:
+- Token: $kellyclaude
+- Address: 0x50D2280441372486BeecdD328c1854743EBaCb07
+- Free tier: Hold 1000+ tokens
+- Paid tier: $5 per month
+- Buyback: 100% of fees → $kellyclaude via Uniswap
+
